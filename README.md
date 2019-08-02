@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+I'm Bernardo from Brazil, just trying to understand this new world called coding!
